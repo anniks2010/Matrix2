@@ -3,3 +3,10 @@ C:\Users\opilane\projects\Matrix\bin\Debug\Matrix.exe
 C:\Users\opilane\projects\Matrix\bin\Debug\Matrix.pdb
 C:\Users\opilane\projects\Matrix\obj\Debug\Matrix.exe
 C:\Users\opilane\projects\Matrix\obj\Debug\Matrix.pdb
+C:\Users\Kodu\Desktop\Matrix2\bin\Debug\Matrix.exe.config
+C:\Users\Kodu\Desktop\Matrix2\bin\Debug\Matrix.exe
+C:\Users\Kodu\Desktop\Matrix2\bin\Debug\Matrix.pdb
+C:\Users\Kodu\Desktop\Matrix2\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Kodu\Desktop\Matrix2\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Kodu\Desktop\Matrix2\obj\Debug\Matrix.exe
+C:\Users\Kodu\Desktop\Matrix2\obj\Debug\Matrix.pdb
